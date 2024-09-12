@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "react-bootstrap": "^2.10.4",
+    "react-paginate": "^8.2.0",
+    "react-router-dom": "^6.26.2",
+    "react-select": "^5.8.0"
+  }
+}
